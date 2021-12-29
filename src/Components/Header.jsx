@@ -52,9 +52,7 @@ const Header = () => {
         <HeaderText>Vacunación COVID-19 en España</HeaderText>
         <ButtonContainer>
             <Link to={'/'}>Inicio</Link>
-            <Link to={'/ritmo'}>Ritmo de vacunación</Link>
             <Link to={'/edades'}>Edades</Link>
-            <Link to={'/comunidades'}>Comunidades Autónomas</Link>
         </ButtonContainer>
     </HeaderBar>
 )
